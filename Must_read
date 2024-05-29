@@ -1,0 +1,23 @@
+---------------------------FOR CASTING A VOTE-------------------------
+Choose option 1 from the main menu.
+Enter your Aadhar number when prompted.
+If your Aadhar number is found and you have not yet voted, you will see a list of candidates.
+Enter the number corresponding to your chosen candidate.
+The system will confirm that your vote has been cast.
+
+-----------------------------Admin Operations------------------------------
+Choose option 2 from the main menu.
+Enter the admin password "1234".
+Choose option 1 to add a new voter:
+Enter the voter's Aadhar number, name, and date of birth.
+Choose option 2 to display the list of registered voters.
+Choose option 3 to return to the main menu.
+
+-------------------------Viewing Election Results------------------------
+Choose option 3 from the main menu.
+The system will display the current winner based on the votes cast.
+
+------------------------Notes--------------------------------------------
+Ensure that the Aadhar numbers entered are unique for each voter.
+Each voter can cast their vote only once.
+Only registered voters can cast votes. Unregistered voters need to be added by the admin.
